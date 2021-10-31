@@ -153,7 +153,7 @@ html {
     position: relative;
     margin-top: 45px;
     padding-top: 50%;
-    background-image: url('./assets/img/slider/chicago.jpg');
+    background-image: url('../img/slider/chicago.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
